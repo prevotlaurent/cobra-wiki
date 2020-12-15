@@ -1,0 +1,6 @@
+ 
+ 
+ESR7 : Contribution of discourse markers to prediction in conversation
+
+It is believed that, when interacting, speakers are able to meet the speed and efficiency requirements, and guarantee discourse progression, thanks to prediction. While it has been shown that semantic, syntactic and phonetic cues are used to keep up with the demands specific to dialogue, there is still room to further explore the place of discourse markers (DMs) in the complex puzzle of natural conversation. To gain better understanding of the role DMs can potentially play in prediction, particularly prediction related to discourse structure and speaker-hearer relationship, this projects proposes to carry out corpus work, as well as to design and apply one Visual World Paradigm (VWP) experiment, an offline completion task and one EEG experiment. The results will inform i) on the brain processes underlying prediction when comprehending utterances with DMs in spontaneous conversation, ii) whether the presence of interpersonal DMs has an impact on response planning and response timing and ii) if speakers interpret sequential DMs in turn-initial position as signals of topic switch. 
+
