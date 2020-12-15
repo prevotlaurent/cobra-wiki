@@ -40,6 +40,8 @@
  
 ```
 git init
+git config user.name "your github name"
+git config user.email "email used for github"
 git clone https://github.com/prevotlaurent/cobra-wiki.wiki.git
 ``` 
 
